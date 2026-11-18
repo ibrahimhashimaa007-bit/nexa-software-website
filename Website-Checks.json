@@ -1,0 +1,20 @@
+{
+  "website": "https://nexa-software-downloads.pages.dev/",
+  "checked_date": "2026-11-18",
+  "pages": 8,
+  "static_files": 16,
+  "build_test": "passed; all deployment files byte-identical after rebuild",
+  "python_windows_compatibility": "Explicit UTF-8 writes in generator; not executed on Windows",
+  "local_links_checked": 164,
+  "broken_local_links": 0,
+  "live_http_checks": "All eight pages and required assets returned HTTP 200",
+  "installer": "NexaTik-Setup-0.5.2.exe",
+  "installer_http_status": 200,
+  "installer_bytes": 107588838,
+  "installer_sha256": "a0bd3dad07ec5ea7d64efd66c17bc9a608584c6cffdf50028957f8bedad4950a",
+  "sitemap": "HTTP 200 and valid XML, eight URLs; Search Console Could not fetch remains unresolved",
+  "search_console": "User reported ownership verified; homepage live test eligible, actual indexing not confirmed; request quota exhausted",
+  "hosting": "Cloudflare Pages Direct Upload; GitHub automatic deployment not configured",
+  "github": "Source package prepared; repository creation/upload not yet completed",
+  "adsense": "not configured"
+}
